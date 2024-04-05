@@ -9,7 +9,7 @@ spec:
   destination:
     name: vend
     namespace: vend
-  project: root-application
+  project: default
   source:
     helm:
       valueFiles:
