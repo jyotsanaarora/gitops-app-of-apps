@@ -9,7 +9,7 @@ spec:
   destination:
     name: in-cluster
     namespace: openshift-gitops
-  project: root-applications
+  project: root-application
   source:
     helm:
       valueFiles:
